@@ -36,7 +36,7 @@ nav{
 .nav-name :hover{
   color: aqua;
   transform: scale(1.1);
-  transition: transform .2s;
+  transition: transform .3s;
 }
 
 
@@ -77,7 +77,7 @@ main{
 .description{
   padding: 20px;
   height: 100%;
-  font-size: 27px;
+  font-size: 22px;
 }
 
 .about-title:hover{
@@ -118,7 +118,7 @@ main{
 }
 
 .skills-imgs img{
-  height: 120px;
+  height: 90px;
   transition: transform .2s;
 }
 
@@ -194,4 +194,14 @@ footer div img {
   display: flex;
   flex-direction: row;
   gap: 15px;
+}
+
+.linkedin{
+  height: 30px;
+  width: 30px;
+}
+
+.linkedin-div{
+  display: grid;
+  align-items: center;
 }

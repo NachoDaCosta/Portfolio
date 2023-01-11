@@ -20,9 +20,9 @@ const Footer=()=>{
                             <img src="./imgs/white-discord.jpg" alt=""/>
                         </a>
                     </div>
-                    <div className="img-color">
+                    <div className="img-color linkedin-div">
                         <a href="https://www.linkedin.com/in/juan-da-costa/">
-                            <img src="./imgs/linkedin.png" alt=""/>
+                            <img src="./imgs/linkedin.png" alt="" className="linkedin"/>
                         </a>
                     </div>
                 </div>
